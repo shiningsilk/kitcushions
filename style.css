@@ -1274,7 +1274,7 @@ figcaption,
 }
 
 #mc_embed_signup .button {
-	background-color: #fa5f1a;
+	background-color: #F04243;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -1810,6 +1810,7 @@ p.entry-meta {
     #mc_embed_signup .clear {display: block; width: 100% }
     #mc_embed_signup .button {width: 100%; margin:0; }
 }
+
 
 /* Print Styles
 ---------------------------------------------------------------------------- */
