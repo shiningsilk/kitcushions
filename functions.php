@@ -79,7 +79,6 @@ function kitcushions_enqueue_scripts_styles() {
 	);
 
 	wp_enqueue_style( 'dashicons' );
-	wp_enqueue_style( 'font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' );
 
 	if ( genesis_is_amp() ) {
 		wp_enqueue_style(
