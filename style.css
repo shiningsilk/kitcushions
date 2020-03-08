@@ -1805,6 +1805,12 @@ p.entry-meta {
 
 }
 
+@media (max-width: 767px) {
+    #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
+    #mc_embed_signup .clear {display: block; width: 100% }
+    #mc_embed_signup .button {width: 100%; margin:0; }
+}
+
 /* Print Styles
 ---------------------------------------------------------------------------- */
 
