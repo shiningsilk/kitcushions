@@ -54,6 +54,7 @@ Text Domain: kitcushions
 	- Header Menu
 	- Footer Menu
 - Content Area
+	- Mailchimp
 	- Entry Content
 	- Entry Meta
 	- Pagination
@@ -1235,6 +1236,8 @@ figcaption,
 /* Content Area
 ---------------------------------------------------------------------------- */
 
+/* Mailchimp
+--------------------------------------------- */
 #mc_embed_signup form {
 	padding: 10px 0;
 	text-align: center;
