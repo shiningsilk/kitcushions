@@ -1007,7 +1007,7 @@ figcaption,
 
 .site-header {
 	background-color: #fff;
-	box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 	padding: 0 30px;
 }
 
@@ -1088,7 +1088,7 @@ figcaption,
 .genesis-nav-menu .current-menu-item > a,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
-	color: #0073e5;
+	color: #087e8a;
 	text-decoration: none;
 }
 
