@@ -1144,6 +1144,10 @@ figcaption,
 	position: relative;
 }
 
+.genesis-responsive-menu .genesis-nav-menu .menu-item a {
+	text-align: center;
+}
+
 .genesis-responsive-menu .genesis-nav-menu .menu-item:hover > .sub-menu {
 	display: none;
 }
@@ -1166,7 +1170,7 @@ figcaption,
 .sub-menu-toggle:hover {
 	background-color: transparent;
 	border-width: 0;
-	color: #0073e5;
+	color: #F04243;
 }
 
 .menu-toggle {
