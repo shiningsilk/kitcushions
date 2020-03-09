@@ -1256,6 +1256,7 @@ figcaption,
 .post-edit-link {
 	display: none;
 }
+
 /* Mailchimp
 --------------------------------------------- */
 #mc_embed_signup form {
@@ -1838,6 +1839,10 @@ p.entry-meta {
 	.entry-comments,
 	.entry-pings {
 		margin-bottom: 60px;
+	}
+
+	.home .entry {
+		margin-bottom: 0;
 	}
 
 	/* Footer Widgets
