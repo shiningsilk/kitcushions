@@ -1550,7 +1550,7 @@ p.entry-meta {
 
 .footer-widgets {
 	border-top: 1px solid #eee;
-	background-color: #fff;
+	background-color: #f4f4f4;
 	clear: both;
 	padding: 60px 0;
 }
@@ -1654,7 +1654,7 @@ p.entry-meta {
 
 	.genesis-nav-menu > .menu-highlight > a:focus,
 	.genesis-nav-menu > .menu-highlight > a:hover {
-		background-color: #0073e5;
+		background-color: #F04243;
 	}
 
 	.genesis-nav-menu .sub-menu,
