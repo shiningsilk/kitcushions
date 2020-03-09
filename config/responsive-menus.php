@@ -13,6 +13,10 @@
  */
 return [
 	'script' => [
+		'mainMenu'         => __( '', 'genesis-sample' ),
+		'menuIconClass'    => 'dashicons-before dashicons-menu',
+		'subMenu'          => __( 'Submenu', 'genesis-sample' ),
+		'subMenuIconClass' => 'dashicons-before dashicons-arrow-down-alt2',
 		'menuClasses' => [
 			'others' => [ '.nav-primary' ],
 		],
