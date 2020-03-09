@@ -636,7 +636,7 @@ th {
 }
 
 .after-entry {
-	background-color: #f8f8f8;
+	background-color: #f4f4f4;
 	box-shadow: none;
 	padding: 20px 30px;
 }
@@ -1343,7 +1343,7 @@ figcaption,
 }
 
 #mc_embed_signup #mce-success-response {
-	color: #fa5f1a;
+	color: #F04243;
 	display: none;
 }
 
@@ -1414,14 +1414,31 @@ p.entry-meta {
 	padding-top: 20px;
 }
 
+.entry-footer .entry-meta a {
+	color: #252525;
+}
+
+.entry-footer .entry-meta a:hover {
+	color: #087e8a;
+}
+
+.entry-footer .entry-meta a:visited {
+	color: #073954;
+}
+
 .entry-categories,
 .entry-tags {
-	display: block;
+	display: inline;
 }
 
 .entry-comments-link::before {
-	content: "\2014";
+	content: "\2043";
 	margin: 0 6px 0 2px;
+}
+
+.entry-tags::before {
+	content: "\2043";
+	margin: 5px;
 }
 
 /* Pagination
