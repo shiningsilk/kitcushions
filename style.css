@@ -636,6 +636,7 @@ th {
 }
 
 .after-entry {
+	background-color: #f8f8f8;
 	box-shadow: none;
 	padding: 20px 30px;
 }
@@ -718,6 +719,10 @@ th {
 	font-size: 18px;
 	font-weight: 400;
 	margin-bottom: 20px;
+}
+
+.after-entry .widget-title {
+	text-align: center;
 }
 
 .genesis-title-hidden .site-inner {
