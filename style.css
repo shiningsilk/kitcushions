@@ -1257,6 +1257,19 @@ figcaption,
 	display: none;
 }
 
+/* WP Forms
+--------------------------------------------- */
+
+.wpforms-confirmation-container-full {
+    color: #fff!important;
+    background: #087e8a!important;
+    border: none!important;
+}
+
+.wpforms-confirmation-container-full p {
+	text-align: center;
+}
+
 /* Mailchimp
 --------------------------------------------- */
 #mc_embed_signup form {
