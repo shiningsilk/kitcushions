@@ -6,3 +6,5 @@ WordPress theme for KitCushions
 
 * [WordPress](https://wordpress.org/)
 * [Genesis](https://www.studiopress.com/) - Theme framework
+
+![KitCushions homepage](https://github.com/shiningsilk/kitcushions/blob/master/images/kitcushions-home.jpg)
