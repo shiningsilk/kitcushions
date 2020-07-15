@@ -1261,7 +1261,7 @@ figcaption,
 :target {
   display: block;
   position: relative;
-  top: -150px; 
+  top: -150px;
   visibility: hidden;
 }
 
@@ -1278,8 +1278,9 @@ figcaption,
 	text-align: center;
 }
 
-/* Mailchimp
+/* Mailchimp Home and After Entry
 --------------------------------------------- */
+
 #mc_embed_signup form {
 	padding: 10px 0;
 	text-align: center;
@@ -1302,9 +1303,9 @@ figcaption,
 	font-size: 18px;
 	height: 42px;
 	margin: 0;
+	max-width: 350px;
 	padding: 0 0.4em;
 	vertical-align: top;
-	width: 350px;
 }
 
 #mc_embed_signup label {
@@ -1315,7 +1316,7 @@ figcaption,
 	display: inline-block;
 }
 
-#mc_embed_signup .button {
+#mc_embed_signup input.button {
 	background-color: #F04243;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
@@ -1380,6 +1381,17 @@ figcaption,
 	padding:.5em 0;
 }
 
+/* Mailchimp Footer
+--------------------------------------------- */
+#yikes-easy-mc-form-1-EMAIL,
+#yikes-easy-mc-form-2-EMAIL {
+	border: 1px solid #252525;
+}
+
+#yikes-mailchimp-container-2 {
+	margin: 0 auto;
+	max-width: 800px;
+}
 
 /* Entry Content
 --------------------------------------------- */
@@ -1885,6 +1897,10 @@ p.entry-meta {
     #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
     #mc_embed_signup .clear {display: block; width: 100% }
     #mc_embed_signup .button {width: 100%; margin:0; }
+
+		#text-4 .yikes-easy-mc-form label.label-inline {
+			padding-right: 0;
+		}
 }
 
 
