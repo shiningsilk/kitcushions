@@ -1258,6 +1258,13 @@ figcaption,
 	display: none;
 }
 
+:target {
+  display: block;
+  position: relative;
+  top: -150px; 
+  visibility: hidden;
+}
+
 /* WP Forms
 --------------------------------------------- */
 
