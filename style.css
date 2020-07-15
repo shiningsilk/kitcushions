@@ -55,7 +55,7 @@ Text Domain: kitcushions
 	- Footer Menu
 - Content Area
 	- WP Forms
-	- Mailchimp
+	- Yikes Easy Forms for Mailchimp
 	- Entry Content
 	- Entry Meta
 	- Pagination
@@ -1278,110 +1278,8 @@ figcaption,
 	text-align: center;
 }
 
-/* Mailchimp Home and After Entry
---------------------------------------------- */
 
-#mc_embed_signup form {
-	padding: 10px 0;
-	text-align: center;
-}
-
-.mc-field-group {
-	display: inline-block;
-}
-
-#mc_embed_signup input.email {
-	background-color: #f4f4f4;
-	border: 1px solid #252525;
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	border-radius: 0;
-	box-sizing: border-box;
-	color: #252525;
-	display: inline-block;
-	font-family: "Source Sans Pro", sans-serif;
-	font-size: 18px;
-	height: 42px;
-	margin: 0;
-	max-width: 350px;
-	padding: 0 0.4em;
-	vertical-align: top;
-}
-
-#mc_embed_signup label {
-	display: none;
-}
-
-#mc_embed_signup .clear {
-	display: inline-block;
-}
-
-#mc_embed_signup input.button {
-	background-color: #F04243;
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	border-radius: 0;
-	box-sizing: border-box;
-	color: #fff;
-	display: inline-block;
-	font-family: "Source Sans Pro", sans-serif;
-	font-size: 18px;
-	height: 42px;
-	line-height: 42px;
-	margin: 0;
-	padding: 0 18px;
-	transition: all 0.23s ease-in-out 0s;
-}
-
-#mc_embed_signup {
-	background:#f4f4f4;
-	clear:left;
-	font:14px Helvetica,Arial,sans-serif;
-}
-
-#mc_embed_signup .button:hover {
-	background-color: #252525;
-	cursor: pointer;
-}
-
-#mc_embed_signup div#mce-responses {
-	float: left;
-	top: -1.4em;
-	padding:0em .5em 0em .5em;
-	overflow:hidden;
-	width:90%;margin: 0 5%;
-	clear: both;
-}
-
-#mc_embed_signup div.response {
-	margin:1em 0;
-	padding:1em .5em .5em 0;
-	font-weight:bold;
-	float:left;
-	top:-1.5em;
-	z-index:1;
-	width:80%;
-}
-
-#mc_embed_signup #mce-error-response {
-	display:none;
-}
-
-#mc_embed_signup #mce-success-response {
-	color: #F04243;
-	display: none;
-}
-
-#mc_embed_signup label.error {
-	display: block;
-	float: none;
-	width: auto;
-	margin-left: 1.05em;
-	text-align: left;
-	padding:.5em 0;
-}
-
-/* Mailchimp Footer
+/* Yikes Easy Forms for Mailchimp
 --------------------------------------------- */
 #yikes-easy-mc-form-1-EMAIL,
 #yikes-easy-mc-form-2-EMAIL {
@@ -1894,9 +1792,6 @@ p.entry-meta {
 }
 
 @media (max-width: 767px) {
-    #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
-    #mc_embed_signup .clear {display: block; width: 100% }
-    #mc_embed_signup .button {width: 100%; margin:0; }
 
 		#text-4 .yikes-easy-mc-form label.label-inline {
 			padding-right: 0;
