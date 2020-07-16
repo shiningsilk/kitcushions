@@ -1265,6 +1265,12 @@ figcaption,
   visibility: hidden;
 }
 
+.home-icons {
+	font-size: 60px;
+	text-align: center;
+
+}
+
 /* WP Forms
 --------------------------------------------- */
 
