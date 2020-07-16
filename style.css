@@ -1793,7 +1793,8 @@ p.entry-meta {
 
 @media (max-width: 767px) {
 
-		#text-4 .yikes-easy-mc-form label.label-inline {
+	#home-subscribe .yikes-easy-mc-form label.label-inline,
+	#widget-subscribe .yikes-easy-mc-form label.label-inline {
 			padding-right: 0;
 		}
 }
