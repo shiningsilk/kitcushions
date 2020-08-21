@@ -1254,7 +1254,9 @@ figcaption,
 
 /* Content Area
 ---------------------------------------------------------------------------- */
-.post-edit-link {
+.post-edit-link,
+.archive-title,
+.post-49 .entry-title {
 	display: none;
 }
 
@@ -1268,7 +1270,6 @@ figcaption,
 .home-icons {
 	font-size: 60px;
 	text-align: center;
-
 }
 
 /* WP Forms
@@ -1513,6 +1514,10 @@ p.entry-meta {
 
 #sb_instagram .sbi_follow_btn a {
 	border-radius: 0;
+}
+
+.footer-widgets-2 .widget-title {
+	font-weight: 700;
 }
 
 
